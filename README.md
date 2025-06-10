@@ -60,6 +60,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
-
-## License
-Distributed under the MIT License. See `LICENSE` file for more information. (Assuming MIT, a `LICENSE` file would need to be created if one doesn't exist).
